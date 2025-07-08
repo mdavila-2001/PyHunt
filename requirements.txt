@@ -1,0 +1,14 @@
+# Dependencias para PyHunt con YOLO
+pygame>=2.0.0
+opencv-python>=4.5.0
+ultralytics>=8.0.0
+numpy>=1.21.0
+torch>=1.9.0
+torchvision>=0.10.0
+
+# Dependencias para detección de manos con MediaPipe
+mediapipe>=0.10.0
+
+# Dependencias opcionales para mejor rendimiento
+pillow>=8.0.0
+matplotlib>=3.3.0 

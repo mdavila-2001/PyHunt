@@ -1,0 +1,35 @@
+[
+  {
+    "timestamp": "2025-07-15T18:34:30.591726",
+    "mode": "Clásico",
+    "score": 1365,
+    "ducks_shot": 24,
+    "total_shots": 134,
+    "accuracy": 17.91044776119403,
+    "time_remaining": 0,
+    "ai_level": 2,
+    "duration": 60
+  },
+  {
+    "timestamp": "2025-07-15T18:35:55.350529",
+    "mode": "Clásico",
+    "score": 1465,
+    "ducks_shot": 29,
+    "total_shots": 68,
+    "accuracy": 42.64705882352941,
+    "time_remaining": 0,
+    "ai_level": 2,
+    "duration": 60
+  },
+  {
+    "timestamp": "2025-07-15T18:37:39.439686",
+    "mode": "Clásico",
+    "score": 1615,
+    "ducks_shot": 29,
+    "total_shots": 98,
+    "accuracy": 29.591836734693878,
+    "time_remaining": 0,
+    "ai_level": 1,
+    "duration": 60
+  }
+]

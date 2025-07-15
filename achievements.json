@@ -1,0 +1,188 @@
+{
+  "total_points": 460,
+  "unlocked_count": 4,
+  "achievements": {
+    "sharp_shooter": {
+      "id": "sharp_shooter",
+      "name": "Sharp Shooter",
+      "description": "Achieve 90% accuracy in a single game",
+      "icon": "🎯",
+      "points": 100,
+      "condition": {
+        "accuracy": 90
+      },
+      "unlocked": false,
+      "unlock_date": null
+    },
+    "dead_eye": {
+      "id": "dead_eye",
+      "name": "Dead Eye",
+      "description": "Achieve 95% accuracy in a single game",
+      "icon": "👁️",
+      "points": 200,
+      "condition": {
+        "accuracy": 95
+      },
+      "unlocked": false,
+      "unlock_date": null
+    },
+    "perfect_shot": {
+      "id": "perfect_shot",
+      "name": "Perfect Shot",
+      "description": "Achieve 100% accuracy in a single game",
+      "icon": "💯",
+      "points": 500,
+      "condition": {
+        "accuracy": 100
+      },
+      "unlocked": false,
+      "unlock_date": null
+    },
+    "duck_hunter": {
+      "id": "duck_hunter",
+      "name": "Duck Hunter",
+      "description": "Score 1000 points in a single game",
+      "icon": "🦆",
+      "points": 50,
+      "condition": {
+        "score": 1000
+      },
+      "unlocked": true,
+      "unlock_date": "2025-07-15T18:34:30.648136"
+    },
+    "duck_master": {
+      "id": "duck_master",
+      "name": "Duck Master",
+      "description": "Score 2000 points in a single game",
+      "icon": "🏆",
+      "points": 150,
+      "condition": {
+        "score": 2000
+      },
+      "unlocked": false,
+      "unlock_date": null
+    },
+    "duck_legend": {
+      "id": "duck_legend",
+      "name": "Duck Legend",
+      "description": "Score 5000 points in a single game",
+      "icon": "👑",
+      "points": 500,
+      "condition": {
+        "score": 5000
+      },
+      "unlocked": false,
+      "unlock_date": null
+    },
+    "first_blood": {
+      "id": "first_blood",
+      "name": "First Blood",
+      "description": "Shoot your first duck",
+      "icon": "🩸",
+      "points": 10,
+      "condition": {
+        "ducks_shot": 1
+      },
+      "unlocked": true,
+      "unlock_date": "2025-07-15T18:34:30.648136"
+    },
+    "duck_slayer": {
+      "id": "duck_slayer",
+      "name": "Duck Slayer",
+      "description": "Shoot 10 ducks in a single game",
+      "icon": "⚔️",
+      "points": 100,
+      "condition": {
+        "ducks_shot": 10
+      },
+      "unlocked": true,
+      "unlock_date": "2025-07-15T18:34:30.648136"
+    },
+    "duck_annihilator": {
+      "id": "duck_annihilator",
+      "name": "Duck Annihilator",
+      "description": "Shoot 20 ducks in a single game",
+      "icon": "💀",
+      "points": 300,
+      "condition": {
+        "ducks_shot": 20
+      },
+      "unlocked": true,
+      "unlock_date": "2025-07-15T18:34:30.648136"
+    },
+    "ai_challenger": {
+      "id": "ai_challenger",
+      "name": "AI Challenger",
+      "description": "Reach AI level 5",
+      "icon": "🤖",
+      "points": 200,
+      "condition": {
+        "ai_level": 5
+      },
+      "unlocked": false,
+      "unlock_date": null
+    },
+    "ai_master": {
+      "id": "ai_master",
+      "name": "AI Master",
+      "description": "Reach AI level 10",
+      "icon": "🧠",
+      "points": 500,
+      "condition": {
+        "ai_level": 10
+      },
+      "unlocked": false,
+      "unlock_date": null
+    },
+    "dedicated_hunter": {
+      "id": "dedicated_hunter",
+      "name": "Dedicated Hunter",
+      "description": "Play 10 games",
+      "icon": "🎮",
+      "points": 50,
+      "condition": {
+        "games_played": 10
+      },
+      "unlocked": false,
+      "unlock_date": null
+    },
+    "veteran_hunter": {
+      "id": "veteran_hunter",
+      "name": "Veteran Hunter",
+      "description": "Play 50 games",
+      "icon": "🎖️",
+      "points": 200,
+      "condition": {
+        "games_played": 50
+      },
+      "unlocked": false,
+      "unlock_date": null
+    },
+    "speed_demon": {
+      "id": "speed_demon",
+      "name": "Speed Demon",
+      "description": "Shoot 5 ducks in under 30 seconds",
+      "icon": "⚡",
+      "points": 150,
+      "condition": {
+        "ducks_shot": 5,
+        "time_remaining": 30000
+      },
+      "unlocked": false,
+      "unlock_date": null
+    },
+    "efficient_hunter": {
+      "id": "efficient_hunter",
+      "name": "Efficient Hunter",
+      "description": "Shoot 10 ducks with 100% accuracy",
+      "icon": "🎯",
+      "points": 400,
+      "condition": {
+        "ducks_shot": 10,
+        "accuracy": 100
+      },
+      "unlocked": false,
+      "unlock_date": null
+    }
+  }
+}

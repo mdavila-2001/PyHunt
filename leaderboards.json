@@ -1,0 +1,60 @@
+{
+  "overall": [
+    {
+      "rank": 1,
+      "player_name": "Player",
+      "score": 1615,
+      "mode": "Clásico",
+      "timestamp": "2025-07-15T18:37:39.439686",
+      "accuracy": 29.591836734693878,
+      "ducks_shot": 29
+    },
+    {
+      "rank": 2,
+      "player_name": "Player",
+      "score": 1465,
+      "mode": "Clásico",
+      "timestamp": "2025-07-15T18:35:55.350529",
+      "accuracy": 42.64705882352941,
+      "ducks_shot": 29
+    },
+    {
+      "rank": 3,
+      "player_name": "Player",
+      "score": 1365,
+      "mode": "Clásico",
+      "timestamp": "2025-07-15T18:34:30.591726",
+      "accuracy": 17.91044776119403,
+      "ducks_shot": 24
+    }
+  ],
+  "Clásico": [
+    {
+      "rank": 1,
+      "player_name": "Player",
+      "score": 1615,
+      "mode": "Clásico",
+      "timestamp": "2025-07-15T18:37:39.439686",
+      "accuracy": 29.591836734693878,
+      "ducks_shot": 29
+    },
+    {
+      "rank": 2,
+      "player_name": "Player",
+      "score": 1465,
+      "mode": "Clásico",
+      "timestamp": "2025-07-15T18:35:55.350529",
+      "accuracy": 42.64705882352941,
+      "ducks_shot": 29
+    },
+    {
+      "rank": 3,
+      "player_name": "Player",
+      "score": 1365,
+      "mode": "Clásico",
+      "timestamp": "2025-07-15T18:34:30.591726",
+      "accuracy": 17.91044776119403,
+      "ducks_shot": 24
+    }
+  ]
+}
